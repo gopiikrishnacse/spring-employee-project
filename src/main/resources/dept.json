@@ -1,0 +1,50 @@
+{
+	"dept": [{
+			"deptId": "d101",
+			"department": "account",
+			"employees": [{
+					"empId": "e101",
+					"firstName": "gopi",
+					"lastName": "vangala",
+					"designation": "Account Manager",
+					"email": "gopi@gmail.com",
+					"address": [{
+						"flatNo": "100",
+						"buildingNo": "10",
+						"colony": "vihar nagar",
+						"city": "Hyderabad",
+						"sate": "Telangana",
+						"country": "India",
+						"pinCode": "500013"
+					}]
+
+				}
+
+			]
+		},
+		{
+			"deptId": "d102",
+			"department": "finance",
+			"employees": [{
+					"empId": "e102",
+					"firstName": "krishna",
+					"lastName": "vangala",
+					"designation": "Finance Manager",
+					"email": "krishna@gmail.com",
+					"address": [{
+						"flatNo": "100",
+						"buildingNo": "10",
+						"colony": "Telecom nagar",
+						"city": "Hyderabad",
+						"sate": "Telangana",
+						"country": "India",
+						"pinCode": "500019"
+					}]
+
+				}
+
+			]
+		}
+
+	]
+}
